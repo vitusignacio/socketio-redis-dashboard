@@ -1,0 +1,16 @@
+{
+    "name": "socketioconnector",
+    "version": "1.0.0",
+    "description": "socketio connector",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Steven Klein",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.16.2",
+        "redis": "^2.8.0",
+        "socket.io": "^2.0.4"
+    }
+}
